@@ -1,0 +1,7 @@
+D:\Labs\ProjectEuler+\Solution1\Solution1\bin\Debug\Solution1.exe.config
+D:\Labs\ProjectEuler+\Solution1\Solution1\bin\Debug\Solution1.exe
+D:\Labs\ProjectEuler+\Solution1\Solution1\bin\Debug\Solution1.pdb
+D:\Labs\ProjectEuler+\Solution1\Solution1\obj\Debug\Solution1.csprojAssemblyReference.cache
+D:\Labs\ProjectEuler+\Solution1\Solution1\obj\Debug\Solution1.csproj.CoreCompileInputs.cache
+D:\Labs\ProjectEuler+\Solution1\Solution1\obj\Debug\Solution1.exe
+D:\Labs\ProjectEuler+\Solution1\Solution1\obj\Debug\Solution1.pdb
